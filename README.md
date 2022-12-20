@@ -7,6 +7,7 @@ Create a convenient product for the internal structure of the online store
 ПО НАПРАВЛЕНИЮ: PYTHON-РАЗРАБОТЧИК
 Создай удобный продукт для внутренней структуры интернет-магазина
 
+https://dke.moscow/
 
 # Task 
 
