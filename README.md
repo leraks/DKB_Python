@@ -1,6 +1,32 @@
 # DKB_Python
 Voluntary qualifying examination (Добровольный квалификационный экзамен)
 
+# Task
+
+Good afternoon, dear candidates!
+
+Congratulations on passing the previous online selection stages. Now you have to go through the last
+full-time stage of selection for the position of Python developer in the online grocery store of our network. We have prepared
+an interesting task to test your knowledge of Python software development (including
+
+web interface development) and working with databases.
+Your task with Python:
+• Use a database from Microsoft Access Database (click to download).
+• Using SQL queries, develop a prototype of a back-end that returns to the user basic
+information on sales in an online store: the number of customers, the number of their orders, the number
+of products, the number of product categories, the number of different items in stock, as well as a table2
+with three
+
+columns: supplier, supplier's order number, the amount to be paid for each order.
+
+• Create a static HTML and CSS web page for online store employees that would
+visualize the basic information of an online grocery store3
+
+
+Prepare a presentation that includes a description of each stage of the work, indicating the bibliotech
+and design principles used, insert screenshots of query conclusions and site pages.
+
+Don't forget to add a link to your project's unified repository on github.com .
 
 # Task Ru
 
