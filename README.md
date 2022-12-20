@@ -4,7 +4,6 @@ IN THE DIRECTION OF: PYTHON DEVELOPER
 Create a convenient product for the internal structure of the online store
 
 КЕЙС ОЧНОГО ЭТАПА
-
 ПО НАПРАВЛЕНИЮ: PYTHON-РАЗРАБОТЧИК
 Создай удобный продукт для внутренней структуры интернет-магазина
 
