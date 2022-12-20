@@ -1,4 +1,4 @@
-# DKB_Python
+# DKB_Python (Date of the event 14.12.2022)
 CASE OF THE FULL-TIME STAGE
 IN THE DIRECTION OF: PYTHON DEVELOPER
 Create a convenient product for the internal structure of the online store
